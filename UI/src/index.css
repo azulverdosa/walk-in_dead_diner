@@ -1,0 +1,144 @@
+body {
+  background-image: linear-gradient(115deg, rgba(00, 154, 44, 0.7), rgba(127, 13, 150, 0.8)),
+    url('https://i.pinimg.com/originals/09/ae/30/09ae30bd0b064fdf07f486eff3d3a739.jpg');
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-width: 844px;
+}
+
+header {
+  font-size: 40px;
+  text-align: center;
+  font-family: 'Fontdiner Swanky', cursive;
+  position: relative;
+  width: fit-content;
+  margin: 0 auto;
+}
+
+#description {
+  font-family: 'New Tegomin', serif;
+  margin-bottom: 15px;
+}
+
+header.header span.the {
+  font-size: 30px;
+  text-align: left;
+  position: absolute;
+  left: -45px;
+  top: -25px;
+  margin: 0;
+  transform: rotate(-20deg);
+}
+
+header.header h1 {
+  margin-bottom: 5px;
+  line-height: 80px;
+  color: #35c4ac;
+  -webkit-text-stroke: 1px #000;
+}
+
+header.header span.survey {
+  width: 100%;
+  display: block;
+  font-size: 0.7em;
+  line-height: 50px;
+  color: #111;
+  -webkit-text-stroke: 0;
+}
+
+.hint {
+  font-size: 15px;
+  font-style: italic;
+}
+
+.form {
+  background-color: black;
+  max-width: 50%;
+  margin: auto;
+  border-radius: 10px;
+  padding: 50px 70px 50px 40px;
+  font-family: 'New Tegomin', serif;
+  font-size: 25px;
+  opacity: 0.5;
+  color: white;
+}
+
+#apps,
+#main,
+#dess {
+  margin: 5px 0px;
+}
+
+.form-entry {
+  font-size: 20px;
+  width: 100%;
+  padding: 9px;
+  margin: 10px;
+  color: #495057;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  font-family: 'New Tegomin', serif;
+}
+
+.input-radio,
+.input-checkbox {
+  display: inline-block;
+  min-height: 1.25rem;
+  min-width: 1.25rem;
+  margin-right: 0.625rem;
+}
+
+.input-textarea {
+  min-height: 150px;
+  width: 100%;
+  font-family: 'New Tegomin', serif;
+  font-size: 25px;
+  border-radius: 5px;
+}
+
+button {
+  font-family: 'New Tegomin', serif;
+  width: 100%;
+  font-size: 20px;
+  background-color: #863b95;
+  border-radius: 5px;
+  border-color: #863b95;
+  display: flex;
+  justify-content: center;
+}
+
+button:hover {
+  background-color: green;
+  border-color: green;
+  font-weight: bolder;
+  font-size: 22px;
+}
+
+@media (max-width: 860px) {
+  #survey,
+  #description,
+  .form,
+  .the {
+    display: none;
+  }
+}
+
+@media (max-width: 860px) {
+  body {
+    background-image: url('https://i.ebayimg.com/images/g/494AAOSwoQddqb22/s-l1600.jpg ');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+}
+
+/* https://i.pinimg.com/236x/7d/8f/1b/7d8f1bcb0db29720b82590f78e5fa39a--playmobil-zombies.jpg */
+
+/* https://i.pinimg.com/originals/d4/fe/89/d4fe89bc6a859c24b02fbfdbd394b451.jpg */
+
+/* https://i.pinimg.com/originals/8a/ec/f4/8aecf4a7f9a50f41076ef4afed3cbf1c.jpg */
