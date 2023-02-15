@@ -4,8 +4,6 @@
 
 ## Table of Contents
 
----
-
 - [General Info](#general)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
@@ -21,21 +19,15 @@
 
 ## General Information
 
----
-
 This project was to build a single page application using HTML & CSS that was a survey form for a restaurant. This project was part of the [freeCodeCamp](https://www.freecodecamp.org/) coding basics courses and was one of the first projects I ever built.
 
 ## Technologies Used
-
----
 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 
 ## Features
-
----
 
 Survey Form<br/>
 Alerts when fields empty<br/>
@@ -44,8 +36,6 @@ Resizing
 - If the screen size for the application is changed to 800px wide or less the page shifts to an image of a zombie dinner.
 
 ## Screenshots
-
----
 
 Survey form:
 ![Home Page](/UI/screenshots/2.png 'Home Page')
@@ -57,8 +47,6 @@ What happens to the page when the screen becomes less than 800px wide:
 ![less thank 800px](/UI/screenshots/3.png 'less thank 800px')
 
 ## Setup
-
----
 
 ### Run Locally
 
@@ -85,19 +73,13 @@ Runs the server. Open [http://localhost:XXXX](http://localhost:XXXX) to view it 
 
 ## Usage
 
----
-
 At the moment there is no database connected to the page, simply a form, however I plan on connecting it to a databse soon.
 
 ## Project Status
 
----
-
 Project is: In Progress
 
 ## Room for Improvement
-
----
 
 This project is over a year old now and having learned a few more things I'm re-visiting it to add some upgrades. I have already added a backend API to start but will need to add functionality as well.
 
@@ -116,21 +98,15 @@ To do:
 
 ## Acknowledgements
 
----
-
 This project was taken from [this](https://www.freecodecamp.org/learn/2022/responsive-web-design/) course from [freeCodeCamp](https://www.freecodecamp.org)
 
 ##Contact
-
----
 
 Created by [@azulverdosa](ellemocambo@gmail.com) - feel free to contact me!
 
 - [LinkedIn](https://www.linkedin.com/in/avatorre/ 'linked')
 
 ## 🤝 Support
-
----
 
 Contributions, issues, and feature requests are welcome!
 
