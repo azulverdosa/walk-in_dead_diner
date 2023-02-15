@@ -69,16 +69,19 @@ What happens to the page when the screen becomes less than 800px wide:
 
 ### Available Commands
 
-In the project directory, you can run:
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-`"npm start" : "react-scripts start"`,
+`npm start`
 
-The app is built using `create-react-app` so this command Runs the app in Development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-You will also see any lint errors in the console.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-<!-- ### `"npm run dev": "concurrently "nodemon server" "npm run start"`,
+The page will reload when you make changes.
 
-For running the server and app together I am using concurrently this helps a lot in the MERN application as it runs both the server (client and server) concurrently. So you can work on them both together. -->
+<!-- `npm run dev`
+
+Runs the server. Open [http://localhost:XXXX](http://localhost:XXXX) to view it in your browser. I am also using nodemon.
+ -->
 
 ## Usage
 
