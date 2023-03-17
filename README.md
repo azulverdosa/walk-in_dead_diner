@@ -9,8 +9,8 @@
 - [Features](#features)
 - [Screenshots](#screenshots)
 - [Setup](#setup)
-  - [Dependencies](#dependencies)
-  - [Available Commands](#available-commands)
+- [Dependencies](#dependencies)
+- [Available Commands](#available-commands)
 - [Usage](#usage)
 - [Project Status](#project-status)
 - [Room for Improvement](#room-for-improvement)
@@ -40,11 +40,11 @@ Resizing
 Survey form:
 ![Home Page](/UI/screenshots/2.png 'Home Page')
 
-Form error showing a feild was left empty:
+Form error showing a field was left empty:
 ![Features](/UI/screenshots/1.png 'Features')
 
 What happens to the page when the screen becomes less than 800px wide:
-![less thank 800px](/UI/screenshots/3.png 'less thank 800px')
+![less than 800px](/UI/screenshots/3.png 'less than 800px')
 
 ## Setup
 
@@ -68,12 +68,13 @@ The page will reload when you make changes.
 
 <!-- `npm run dev`
 
+
 Runs the server. Open [http://localhost:XXXX](http://localhost:XXXX) to view it in your browser. I am also using nodemon.
- -->
+-->
 
 ## Usage
 
-At the moment there is no database connected to the page, simply a form, however I plan on connecting it to a databse soon.
+At the moment there is no database connected to the page, simply a form, however I plan on connecting it to a database soon.
 
 ## Project Status
 
@@ -112,6 +113,6 @@ Contributions, issues, and feature requests are welcome!
 
 Give a ⭐️ if you like this project!
 
-## License
+## Licence
 
 MIT License Copyright (c) [2022] [AvaElise]
